@@ -1,0 +1,15 @@
+.desafio1{
+    color:orange
+}
+
+#lista1{
+    color: blue;
+    background-color: aquamarine;
+    list-style-type: circle;
+}
+
+#lista2{
+    color: blue;
+    background-color: aqua;
+    list-style-type: square;
+}
